@@ -14,7 +14,8 @@ The user will be asked to input a number to "FizzBuzz" until. The query will be 
 The program then prints all the integers from 1 to the inputted number (inclusive), but prints 
 * "Fizz" if the number is divisible by 3,
 * "Buzz" if the number is divisible by 5, and
-* "FizzBuzz" if the number is divisible by 15
+* "FizzBuzz" if the number is divisible by 
+
 in place of the number. 
 
 ###Change Words
