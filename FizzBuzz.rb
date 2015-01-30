@@ -69,6 +69,7 @@ def runFizzBuzz()
 			out = isFizzBuzz(i)
 			puts out
 		end
+		break
 	end
 end
 
